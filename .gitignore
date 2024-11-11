@@ -1,2 +1,5 @@
 dataset
+.venv
 classif.cpython-311.pyc
+dogs_vs_cats_model.h5
+models
